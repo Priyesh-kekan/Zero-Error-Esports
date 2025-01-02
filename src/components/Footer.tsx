@@ -1,19 +1,6 @@
 import React from 'react';
 import { Instagram, Youtube, Linkedin, Twitch } from 'lucide-react';
 
-const Instagramlink = () => {
-  window.location.href = 'https://music.youtube.com/'; // Replace with your target URL
-};
-const Youtubelink = () => {
-  window.location.href = 'https://music.youtube.com/'; // Replace with your target URL
-};
-const Linkedinlink = () => {
-  window.location.href = 'https://music.youtube.com/'; // Replace with your target URL
-};
-const Twitchlink = () => {
-  window.location.href = 'https://music.youtube.com/'; // Replace with your target URL
-};
-
 const Social = () => {
   return (
     <section id="social" className="py-20 bg-red-600 text-white">
@@ -21,16 +8,16 @@ const Social = () => {
         <h2 className="text-4xl font-bold mb-12">Connect With Us</h2>
         <div className="flex justify-center space-x-8">
           <a href="#" className="transform hover:scale-110 transition-transform">
-            <Instagram onClick={Instagramlink} className="w-12 h-12" />
+            <Instagram className="w-12 h-12" />
           </a>
           <a href="#" className="transform hover:scale-110 transition-transform">
-            <Youtube onClick={Youtubelink} className="w-12 h-12" />
+            <Youtube className="w-12 h-12" />
           </a>
           <a href="#" className="transform hover:scale-110 transition-transform">
-            <Linkedin onClick={Linkedinlink} className="w-12 h-12" />
+            <Linkedin className="w-12 h-12" />
           </a>
           <a href="#" className="transform hover:scale-110 transition-transform">
-            <Twitch onClick={Twitchlink} className="w-12 h-12" />
+            <Twitch className="w-12 h-12" />
           </a>
         </div>
         <div className="mt-12">
