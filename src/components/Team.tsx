@@ -3,28 +3,28 @@ import React from 'react';
 const Team = () => {
   const members = [
     {
-      name: "Alex 'Striker' Chen",
-      role: "Team Captain",
-      game: "Valorant",
-      image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&q=80"
+      name: "Not-Set",
+      role: "Not-Set",
+      game: "Not-Set",
+      image: "https://via.placeholder.com/150x150"
     },
     {
-      name: "Sarah 'Phoenix' Johnson",
-      role: "Lead Strategist",
-      game: "League of Legends",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80"
+      name: "Not-Set",
+      role: "Not-Set",
+      game: "Not-Set",
+      image: "https://via.placeholder.com/150x150"
     },
     {
-      name: "Mike 'Clutch' Rodriguez",
-      role: "Pro Player",
-      game: "CS:GO",
-      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80"
+      name: "Not-Set",
+      role: "Not-Set",
+      game: "Not-Set",
+      image: "https://via.placeholder.com/150x150"
     },
     {
-      name: "Emma 'Ace' Williams",
-      role: "Pro Player",
-      game: "Valorant",
-      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80"
+      name: "Not-Set",
+      role: "Not-Set",
+      game: "Not-Set",
+      image: "https://via.placeholder.com/150x150"
     }
   ];
 

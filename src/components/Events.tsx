@@ -4,25 +4,25 @@ import { Calendar, MapPin } from 'lucide-react';
 const Events = () => {
   const events = [
     {
-      title: "APEX Championship Series",
-      date: "March 15-20, 2024",
-      location: "Los Angeles, CA",
-      prize: "$100,000",
-      game: "Valorant"
-    },
-    {
-      title: "Winter Invitational",
-      date: "April 5-7, 2024",
+      title: "TDM-Battle Royale",
+      date: "Not-Set",
       location: "Online",
-      prize: "$50,000",
-      game: "League of Legends"
+      prize: "Not-Set",
+      game: "BGMI (Battle Grounds Mobile India)"
     },
     {
-      title: "Pro League Season 5",
-      date: "May 1-30, 2024",
-      location: "Las Vegas, NV",
-      prize: "$250,000",
-      game: "CS:GO"
+      title: "Not-Set",
+      date: "Not-Set",
+      location: "Not-Set",
+      prize: "Not-Set",
+      game: "Not-Set"
+    },
+    {
+      title: "Not-Set",
+      date: "Not-Set",
+      location: "Not-Set",
+      prize: "Not-Set",
+      game: "Not-Set"
     }
   ];
 
