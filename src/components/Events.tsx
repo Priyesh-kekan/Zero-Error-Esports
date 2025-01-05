@@ -4,7 +4,7 @@ import { Calendar, MapPin } from 'lucide-react';
 const Events = () => {
   const events = [
     {
-      title: "ZE Face OFF Invitational",
+      title: "ZE Face-OFF Invitational",
       date: "01-02-2025,02-02-2025",
       location: "Online",
       prize: "₹2000",
