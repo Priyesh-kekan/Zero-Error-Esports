@@ -4,7 +4,7 @@ import { Calendar, MapPin } from 'lucide-react';
 const Events = () => {
   const events = [
     {
-      title: "TDM-Battle Royale",
+      title: "1v1 Face OFF",
       date: "Not-Set",
       location: "Online",
       prize: "Not-Set",
