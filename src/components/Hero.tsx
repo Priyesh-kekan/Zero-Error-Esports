@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="relative max-w-7xl mx-auto px-6 h-full flex items-center">
         <div className="text-white space-y-6">
           <h1 className="text-6xl font-bold leading-tight">
-          The home of <span className="text-red-600">Rising Games</span>
+          The home of <span className="text-red-600">Rising Gamers</span>
           </h1>
           <p className="text-xl max-w-2xl">
             Team Zero Error Esports is a 'player first ' professional organization currently with a roster of Battlegrounds Mobile India.

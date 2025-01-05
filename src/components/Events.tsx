@@ -4,10 +4,10 @@ import { Calendar, MapPin } from 'lucide-react';
 const Events = () => {
   const events = [
     {
-      title: "1v1 Face OFF",
-      date: "Not-Set",
+      title: "ZE Face OFF Invitational",
+      date: "01-02-2025,02-02-2025",
       location: "Online",
-      prize: "Not-Set",
+      prize: "₹2000",
       game: "BGMI (Battle Grounds Mobile India)"
     },
     {

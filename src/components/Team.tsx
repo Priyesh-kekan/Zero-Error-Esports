@@ -3,27 +3,27 @@ import React from 'react';
 const Team = () => {
   const members = [
     {
-      name: "Not-Set",
-      role: "Not-Set",
-      game: "Not-Set",
+      name: "Aazam Khan",
+      role: "Wizard",
+      game: "ZeroError",
       image: "https://via.placeholder.com/150x150"
     },
     {
-      name: "Not-Set",
-      role: "Not-Set",
-      game: "Not-Set",
+      name: "Deepanshu Savita",
+      role: "Savitar",
+      game: "ZeroError",
       image: "https://via.placeholder.com/150x150"
     },
     {
-      name: "Not-Set",
-      role: "Not-Set",
-      game: "Not-Set",
+      name: "Harshit Soni",
+      role: "Fiction",
+      game: "ZeroError",
       image: "https://via.placeholder.com/150x150"
     },
     {
-      name: "Not-Set",
-      role: "Not-Set",
-      game: "Not-Set",
+      name: "Priyesh Kekan",
+      role: "Godlike",
+      game: "ZeroError",
       image: "https://via.placeholder.com/150x150"
     }
   ];
