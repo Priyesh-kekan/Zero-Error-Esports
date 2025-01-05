@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="bg-black text-white py-4 px-6 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-2">
-          <img src={logo} alt="Logo" className="w-8 h-8 text-red-600" />
+          <img src={logo} alt="Logo" className="w-12 h-12 text-red-600" />
           <span className="text-2xl font-bold">Zero Error Esports</span>
         </div>
         <div className="hidden md:flex space-x-6">
