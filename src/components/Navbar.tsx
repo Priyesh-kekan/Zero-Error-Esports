@@ -1,6 +1,6 @@
 import React from 'react';
 import { Gamepad, Calendar, Users, Share2 } from 'lucide-react';
-import logo from '../assets/ZeroError_NewLogo.png';
+import logo from '../assets/ZeroError_NewLogo_TransparentBG.png';
 import { Instagram, Youtube, Linkedin} from 'lucide-react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDiscord } from '@fortawesome/free-brands-svg-icons';
