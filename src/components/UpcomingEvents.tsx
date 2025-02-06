@@ -1,14 +1,14 @@
 import React from 'react';
 import { Calendar, MapPin } from 'lucide-react';
 
-const Events = () => {
+const UpcomingEvents = () => {
   const events = [
     {
-      title: "ZE Face-OFF Invitational",
-      date: "01-02-2025,02-02-2025",
-      location: "Online",
-      prize: "₹2000",
-      game: "BGMI (Battle Grounds Mobile India)"
+      title: "Not-Set",
+      date: "Not-Set",
+      location: "Not-Set",
+      prize: "Not-Set",
+      game: "Not-Set"
     },
     {
       title: "Not-Set",
@@ -61,4 +61,4 @@ const Events = () => {
   );
 }
 
-export default Events;
+export default UpcomingEvents;
