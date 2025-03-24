@@ -22,7 +22,7 @@ const Social = () => {
           <a href="https://www.linkedin.com/company/zero-error-esports" onClick={() => handleClick('Linkedin')} className="transform hover:scale-110 transition-transform">
             <Linkedin className="w-12 h-12" />
           </a>
-          <a href="https://discord.gg/PGDW2jXBcD" onClick={() => handleClick('Twitch')} className="transform hover:scale-110 transition-transform">
+          <a href="https://discord.gg/7MHYMrsZyv" onClick={() => handleClick('Twitch')} className="transform hover:scale-110 transition-transform">
             <FontAwesomeIcon icon={faDiscord}  className="w-12 h-12" />
           </a>
         </div>
