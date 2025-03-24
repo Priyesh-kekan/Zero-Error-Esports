@@ -20,7 +20,7 @@ const Navbar = () => {
           <a href="#home" className="hover:text-red-500 transition-colors">Home</a>
           <a href="#events" className="hover:text-red-500 transition-colors">Events</a>
           <a href="#team" className="hover:text-red-500 transition-colors">Team</a>
-          <a href="#social" className="hover:text-red-500 transition-colors">Social</a>
+          <a href="#social" className="hover:text-red-500 transition-colors">Socials</a>
           <a href="https://www.instagram.com/teamzer0error_es?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" onClick={() => handleClick('Instagram')} className="transform hover:scale-110 transition-transform">
             <Instagram className="w-8 h-8" />
           </a>
